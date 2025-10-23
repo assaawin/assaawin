@@ -4,9 +4,7 @@ Educator | Computer Science Student | UX Designer | Front-End Developer
 
 ## About Me 🎯
 
-I am an educator and lifelong learner currently pursuing a degree in Computer Science at the **University for Development Studies**. My journey is focused on merging the empathetic, user-centric principles of UX Design with the technical execution of Front-End Development, which I am actively sharpening through the intensive program at **alx Africa**.
-
-My background in teaching fuels my passion for creating intuitive, accessible, and empowering digital products. I believe in technology that serves people, and I'm building the technical skills to make that belief a reality.
+Building on a foundation of education, I'm now studying CompSci (@UDS) and Front-End Dev (@alx_africa). My focus: where user-centered design meets robust code. Believer in tech that serves people.
 
 ## 🚀 Current Focus
 
@@ -22,8 +20,7 @@ My background in teaching fuels my passion for creating intuitive, accessible, a
 ```javascript
 const skills = {
   languages: ["JavaScript", "HTML5", "CSS3"],
-  frameworks: ["React", "Bootstrap"],
-  design: ["Figma", "Adobe XD", "User Research", "Wireframing"],
+  design: ["Figma", "User Research", "Wireframing"],
   tools: ["Git", "GitHub", "VS Code", "Chrome DevTools"],
   concepts: ["Responsive Design", "Accessibility", "UI/UX Principles"]
 };
