@@ -4,8 +4,7 @@ Educator | Computer Science Student | UX Designer | Front-End Developer
 
 ## About Me 🎯
 
-My journey began in the classroom as a [GES](https://ges.gov.gh) Teacher, fueled by a desire to empower others. Now, I'm channeling that same purpose into the digital world. As a Computer Science student at [UDS](https://uds.edu.gh) and a front-end developer in training at [ALX Africa](https://www.alxafrica.com), I am learning to craft experiences that are not only technically sound but also deeply human because the best technology feels like it was built just for you.
-
+My journey began in the classroom as a [**GES**](https://ges.gov.gh) **Teacher,** fueled by a desire to empower others. Now, I'm channeling that same purpose into the digital world. As a **Computer Science Student** at [**UDS**](https://uds.edu.gh) and studying **Front-End Web Development** at [**ALX Africa**](https://www.alxafrica.com), *"I am learning to craft experiences that are not only technically sound but also deeply human because the best technology feels like it was built just for you."*
 
 ## 🚀 Current Focus
 
