@@ -4,7 +4,7 @@ Educator | Computer Science Student | UX Designer | Front-End Developer
 
 ## About Me 🎯
 
-Building on a foundation of education, I'm now studying CompSci (@UDS) and Front-End Dev (@alx_africa). My focus: where user-centered design meets robust code. Believer in tech that serves people.
+My journey began in the classroom, fueled by a desire to empower others. Now, I'm channeling that same purpose into the digital world. As a Computer Science student at UDS and a front-end developer in training at alx Africa, I am learning to craft experiences that are not only technically sound but also deeply human because the best technology feels like it was built just for you.
 
 ## 🚀 Current Focus
 
