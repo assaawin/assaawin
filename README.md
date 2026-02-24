@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Issa
 
-Teacher | Computer Science Student | Front-End Designer
+Teacher | Computer Science Student | Product Designer
 
 ## About Me 🎯
 
